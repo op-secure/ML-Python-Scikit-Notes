@@ -1,3 +1,6 @@
+Some notes that may help understand some concepts when learning machine learning in Python with Scikit-learn.
+
+Setting up IPython (Jupyter):
 1. Install Jupyter (IPython)
 2. Run Jupyter notebook - 'jupyter notebook'.
 3. Enter into cell:
